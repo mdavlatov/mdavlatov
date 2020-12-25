@@ -1,7 +1,7 @@
 # Hi there 👋
 
-> "You have power over your mind — not outside events. Realize this, and you will find strength." 
-- Marcus Aurelius 
+> “You have power over your mind — not outside events. Realize this, and you will find strength.”   
+― Marcus Aurelius 
 
 I am a lifelong learner with passion in coding. I am Mehrob Davlatov an IOS Developer 👨🏻‍💻  based in sunny Dushanbe. 🇹🇯 
 
@@ -10,16 +10,16 @@ Portfolio page is coming up... will be available soon [portfolio](/).
 Please have a look at my [CV](https://github.com/mdavlatov/mdavlatov/blob/main/images/cv/Mehrob%20Davlatov%20-%20IOS%20Developer.pdf)!
 
 My area of interest include:
-· Programming in Swift.
-· UIKit - mostly programmatic.
-· Develop client-server apps.
+- Programming in Swift.
+- UIKit - mostly programmatic.
+- Develop client-server apps.
 
 Thank you for stopping by! 
 
 ## Some extra tidbits: 
 
 ### 🎄 I'm currently working on Eskhata Online and Aloha!
-### 📫 How to reach me: [@mdavlatov7 <img align="left" alt="@mdavlatov7 | Telegram" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg"/>](https://t.me/mdavlatov7)
+### 📫 How to reach me: [@mdavlatov7](https://t.me/mdavlatov7)
 
 
 <br>
