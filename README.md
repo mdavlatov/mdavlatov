@@ -19,7 +19,7 @@ Thank you for stopping by!
 ## Some extra tidbits: 
 
 ### 🎄 I'm currently working on Eskhata Online and Aloha!
-### 📫 How to reach me: [@mdavlatov7 <img align="left" alt="@mdavlatov7 | Telegram" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg"/>](https://t.me/mdavlatov7)
+### 📫 How to reach me: [@mdavlatov7](https://t.me/mdavlatov7)
 
 
 <br>
