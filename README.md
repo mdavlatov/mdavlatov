@@ -58,8 +58,8 @@ let mehrob = Developer(
 ## 🚀 What I'm Building in 2026
 
 - 🟢 A multi-tenant **white-label loyalty & POS platform** — per-business native iOS/Android apps, a Laravel API, and a React admin, all driven by one shared design system
-- 🪂 **BurbleMe** for skydivers at **Burble Software** — Stripe checkout, crash diagnostics, and German, Spanish & French localization
-- 🏦 **ICB Mobile** for Investment and Credit Bank of Tajikistan — liveness and face-match checks as a second authentication factor
+- 🪂 **BurbleMe** for skydivers at **Burble Software**
+- 🏦 **ICB Mobile** for Investment and Credit Bank of Tajikistan
 - 📚 Going deeper on **Swift Concurrency**, **SwiftUI-first modular architecture**, and **design-token systems**
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
